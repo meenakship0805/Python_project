@@ -25,6 +25,12 @@ A real-time, AI-powered attendance monitoring system built with Python, OpenCV, 
 <img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/ef9fcf4e-7d52-4d31-87fd-4323b9fb40ef" />
 <img width="431" height="433" alt="image" src="https://github.com/user-attachments/assets/0324c523-d212-40ab-9358-cd96c7ef1419" />
 <img width="524" height="592" alt="image" src="https://github.com/user-attachments/assets/78062f09-3254-4975-9f35-e210fa08e225" />
+<img width="406" height="292" alt="image" src="https://github.com/user-attachments/assets/8fb189b2-7d35-4dd3-99ec-a7dbcd02c315" />
+<img width="480" height="383" alt="image" src="https://github.com/user-attachments/assets/6a4b088f-40d5-459c-8268-5835dbdae280" />
+<img width="600" height="532" alt="image" src="https://github.com/user-attachments/assets/b237e142-3dbb-466c-ac77-eb44fc73836e" />
+
+
+
 
 
 
