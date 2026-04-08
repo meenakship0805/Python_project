@@ -4,7 +4,7 @@
 
 A real-time, AI-powered attendance monitoring system built with Python, OpenCV, and Tkinter. It automatically detects and recognizes student faces via webcam and marks attendance — no manual entry needed.
 
----
+
 
 ## ✨ Features
 
@@ -17,13 +17,13 @@ A real-time, AI-powered attendance monitoring system built with Python, OpenCV, 
 - 📊 **Attendance Report** — View and filter attendance records by date
 - 🎨 **Modern Dark UI** — Clean, styled Tkinter interface
 
----
+
 
 ## 🖥️ Screenshots
 
 > Dashboard | Student Management | Attendance Report
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ A real-time, AI-powered attendance monitoring system built with Python, OpenCV, 
 | NumPy | Numerical operations |
 | OpenPyXL | Read/write `.xlsx` files |
 
----
+
 
 ## ⚙️ Installation
 
@@ -53,7 +53,7 @@ pip install opencv-contrib-python pandas openpyxl numpy
 
 > ⚠️ Make sure to install `opencv-contrib-python` (NOT `opencv-python`) — it includes the face recognition module.
 
----
+
 
 ## 🚀 How to Run
 
@@ -65,7 +65,7 @@ python Attendance_monitoring.py
 - Username: `admin`
 - Password: `password`
 
----
+
 
 ## 📋 How to Use
 
@@ -75,7 +75,7 @@ python Attendance_monitoring.py
 4. **Take Attendance** → Click "Take Attendance" → Camera will recognize faces and mark attendance automatically
 5. **View Reports** → Click "Attendance Report" → Filter by date if needed
 
----
+
 
 ## 📁 Project Structure
 
@@ -90,10 +90,8 @@ Python_project/
 └── README.md
 ```
 
----
+
 
 ## 👩‍💻 Author
 
 **Meenakshi** — [@meenakship0805](https://github.com/meenakship0805)
-
----
