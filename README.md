@@ -22,7 +22,7 @@ A real-time, AI-powered attendance monitoring system built with Python, OpenCV, 
 ## 🖥️ Screenshots
 
 > Dashboard | Student Management | Attendance Report
-> <img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/ef9fcf4e-7d52-4d31-87fd-4323b9fb40ef" />
+<img width="398" height="350" alt="image" src="https://github.com/user-attachments/assets/ef9fcf4e-7d52-4d31-87fd-4323b9fb40ef" />
 <img width="431" height="433" alt="image" src="https://github.com/user-attachments/assets/0324c523-d212-40ab-9358-cd96c7ef1419" />
 
 
